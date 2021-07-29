@@ -16,9 +16,10 @@ task 1
  
  
   <h3> <b>Youtube Link:<b><a href="">here<a></h3>
-   <h3> <b>Linkedin Post:<b><a href="">here<a></h3><br>
+   <h3> <b>Linkedin Post:<b><a href="">here<a></h3>
      <h3> <b>website :<b><a href="https://mrithulamaggietask-1.000webhostapp.com/">here<a></h3><br>
- <img src="screenshot/blog.png"> <br><br>
+      <a href="https://mrithulamaggietask-1.000webhostapp.com/"><img src="screenshot/home.png"> </a><br><br>
+      <img src="screenshot/blog.png"><br><br>
     
 <h3>FOLLOW:</h3>
 <li><a href="https://www.linkedin.com/in/mrithula-v-aa01621b5/">LinkedIn</a>
